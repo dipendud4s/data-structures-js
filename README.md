@@ -36,3 +36,42 @@ Data structures implemented in JavaScript with the purpose of learning
 *For details visit https://www.bigocheatsheet.com/*
 
 Big O notation is used to classify algorithms according to how their running time or space requirements grow as the input size grows. It is important to understand Big-O complexities for choosing the right data structure for your use case.
+
+## Index
+*Visit https://en.wikipedia.org/wiki/List_of_data_structures*
+
+- Arrays
+  - Array
+  - Bit array
+  - Bit field
+  - Bitboard
+  - Bitmap
+  - Circular buffer
+  - Control table
+  - Image
+  - Dope vector
+  - Dynamic array
+  - Gap buffer
+  - Hashed array tree
+  - Lookup table
+  - Matrix
+  - Parallel array
+  - Sorted array
+  - Sparse matrix
+  - Iliffe vector
+  - Variable-length array
+- Lists
+  - Array list or Dynamic Array
+  - Linked list
+  - Doubly linked list
+  - Association list
+  - Self-organizing list
+  - Skip list
+  - Unrolled linked list
+  - VList
+  - Conc-tree list
+  - Xor linked list
+  - Zipper
+  - Doubly connected edge list also known as half-edge
+  - Difference list
+  - Free list
