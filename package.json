@@ -1,0 +1,8 @@
+{
+  "name": "data-structures-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dipendud4s/data-structures-js.git",
+  "author": "Dipendu Das <dipendu.d4s@gmail.com>",
+  "license": "MIT"
+}
