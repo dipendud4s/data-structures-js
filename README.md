@@ -21,12 +21,18 @@ Data structures implemented in JavaScript with the purpose of learning
 | Examples: int, float, double	| Examples: stacks, queues, tree |
 
 ## Classes of Data Types
-1. **Primitive data types** - typically types that are built-in or basic to a language implementation.
-2. **Composite types** - derived from more than one primitive type.
-3. **Abstract data types (ADT)** - An abstract data type is defined as a mathematical model of the data objects that make up a data type as well as the functions that operate on these objects. Mostly it is class of objects whose logical behavior is defined by a set of values and a set of operations.
+- **Primitive data types** - typically types that are built-in or basic to a language implementation.
+- **Composite types** - derived from more than one primitive type.
+- **Abstract data types (ADT)** - An abstract data type is defined as a mathematical model of the data objects that make up a data type as well as the functions that operate on these objects. Mostly it is class of objects whose logical behavior is defined by a set of values and a set of operations.
 
-> A data structure is also defined an instance of ADT
+> A data structure is also defined an instance of ADT. For example: A list is an Abstraction (abstract data type) which can have implementations (data structure) like **Dynamic array** and **Linked List**
 
 ## Classes of Data Structure :
-1. **Linear Data Structure** - Elements are arranged in one dimension ,also known as linear dimension. Example: lists, stack, queue, etc.
-2. **Non-Linear Data Structure** -  Elements are arranged in one-many, many-one and many-many dimensions. Example: tree, graph, table, etc.
+- **Linear Data Structure** - Elements are arranged in one dimension ,also known as linear dimension. Example: lists, stack, queue, etc.
+- **Non-Linear Data Structure** -  Elements are arranged in one-many, many-one and many-many dimensions. Example: tree, graph, table, etc.
+
+
+## Time Complexity
+*For details visit https://www.bigocheatsheet.com/*
+
+Big O notation is used to classify algorithms according to how their running time or space requirements grow as the input size grows. It is important to understand Big-O complexities for choosing the right data structure for your use case.
